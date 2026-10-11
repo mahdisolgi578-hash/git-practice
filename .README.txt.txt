@@ -1,2 +1,3 @@
 My First Git Project
 This is my first project using Git.
+I am learning Git and GitHub.
